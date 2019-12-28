@@ -10,14 +10,14 @@ Demo of Spring Boot Security of Authentication and Authorization Using Jdbc
 ![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
 
 # H2 Database Details
-<p> Users Table </p>
+<p><b> Users Table </b></p>
 
-![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
+![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/users.png)
 
-<p> Authorities Table </p>
+<p><b> Authorities Table </b></p>
 
-![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
+![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/authorities.png)
 
-<p> Index Details </p>
+<p><b> Index Details </b></p>
 
-![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
+![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/index.png)
