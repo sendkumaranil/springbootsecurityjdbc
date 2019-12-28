@@ -6,7 +6,6 @@ Demo of Spring Boot Security of Authentication and Authorization Using Jdbc
 
 <p>Click here <a href="https://github.com/sendkumaranil/simplespringbootsecurity" > Simple Spring Boot Security </a></p>
 
-# Database Schema
 
 ![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
 
