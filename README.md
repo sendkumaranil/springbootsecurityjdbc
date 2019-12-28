@@ -8,6 +8,6 @@ Demo of Spring Boot Security of Authentication and Authorization Using Jdbc
 
 # Database Schema
 
-![alt tag]()
+![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
 
 
