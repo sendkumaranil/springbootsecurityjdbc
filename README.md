@@ -10,6 +10,9 @@ Demo of Spring Boot Security of Authentication and Authorization Using Jdbc
 ![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/securitydbschema.png)
 
 # H2 Database Details
+<p> Login to admin user: http://localhost:8080/login </p>
+<p> Login to H2 Console: http://localhost:8080/h2 </p>
+<hr/>
 <p><b> Users Table </b></p>
 
 ![alt tag](https://github.com/sendkumaranil/springbootsecurityjdbc/blob/master/users.png)
